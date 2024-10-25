@@ -41,9 +41,11 @@ To get started with Quantum Ledger Core, follow these steps:
 
     ```bash
     1 pip install -r requirements.txt
-    2 Set up environment variables (if applicable): Create a .env file in the root directory and add your configuration
-    settings.
     ```
+
+4. **Set up environment variables (if applicable):** Create a .env file in the root directory and add your configuration
+    settings.
+    
 
 # Usage
 To run the application, use the following command:
