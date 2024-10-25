@@ -73,6 +73,17 @@
 [![Tenable Partner](https://img.shields.io/badge/Tenable-Partner-blue)](https://www.tenable.com/partners)
 [![SonicWall Partner](https://img.shields.io/badge/SonicWall-Partner-blue)](https://www.sonicwall.com/partners/)
 
+[![Certified Blockchain Professional](https://img.shields.io/badge/Certified%20Blockchain%20Professional-CBP-blue)](https://www.blockchain-council.org/certifications/certified-blockchain-professional/)
+[![Certified Blockchain Expert](https://img.shields.io/badge/Certified%20Blockchain%20Expert-CBE-green)](https://www.blockchain-council.org/certifications/certified-blockchain-expert/)
+[![Certified Ethereum Developer](https://img.shields.io/badge/Certified%20Ethereum%20Developer-CED-blue)](https://www.blockchain-council.org/certifications/certified-ethereum-developer/)
+[![Certified Hyperledger Developer](https://img.shields.io/badge/Certified%20Hyperledger%20Developer-CHD-blue)](https://www.blockchain-council.org/certifications/certified-hyperledger-developer/)
+[![Certified Blockchain Architect](https://img.shields.io/badge/Certified%20Blockchain%20Architect-CBA-blue)](https://www.blockchain-council.org/certifications/certified-blockchain-architect/)
+[![Blockchain Developer Bootcamp](https://img.shields.io/badge/Blockchain%20Developer%20Bootcamp-Udacity-blue)](https://www.udacity.com/course/blockchain-developer-nanodegree--nd1309)
+[![Blockchain Fundamentals](https://img.shields.io/badge/Blockchain%20Fundamentals-Berkeley-blue)](https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals)
+[![Certified Blockchain Security Professional](https://img.shields.io/badge/Certified%20Blockchain%20Security%20Professional-CBSP-blue)](https://www.blockchain-council.org/certifications/certified-blockchain-security-professional/)
+[![Blockchain for Business](https://img.shields.io/badge/Blockchain%20for%20Business-Linux%20Foundation-blue)](https://www.linuxfoundation.org/education/online-courses/blockchain-for-business/)
+[![Certified Bitcoin Professional](https://img.shields.io/badge/Certified%20Bitcoin%20Professional-CBP-blue)](https://www.cryptocurrencycertificationconsortium.org/certifications/certified-bitcoin-professional/)
+
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/quantum-ledger-core">Quantum Ledger</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
 # quantum-ledger-core
