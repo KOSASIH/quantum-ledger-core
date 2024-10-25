@@ -24,6 +24,19 @@
 [![ISO 37002 Certified](https://img.shields.io/badge/ISO%2037002-Certified-brightgreen)](https://www.iso.org/iso-37002-whistleblowing.html)
 [![ISO 45003 Certified](https://img.shields.io/badge/ISO%2045003-Certified-brightgreen)](https://www.iso.org/iso-45003-psychological-health.html)
 
+[![Microsoft Partner](https://img.shields.io/badge/Microsoft-Partner-blue)](https://partner.microsoft.com/)
+[![AWS Partner](https://img.shields.io/badge/AWS-Partner-orange)](https://aws.amazon.com/partners/)
+[![Google Cloud Partner](https://img.shields.io/badge/Google%20Cloud-Partner-blue)](https://cloud.google.com/partners/)
+[![IBM Partner](https://img.shields.io/badge/IBM-Partner-blue)](https://www.ibm.com/partnerworld/)
+[![Cisco Partner](https://img.shields.io/badge/Cisco-Partner-blue)](https://www.cisco.com/c/en/us/partners.html)
+[![Salesforce Partner](https://img.shields.io/badge/Salesforce-Partner-blue)](https://partners.salesforce.com/)
+[![Oracle Partner](https://img.shields.io/badge/Oracle-Partner-red)](https://www.oracle.com/partners/)
+[![SAP Partner](https://img.shields.io/badge/SAP-Partner-green)](https://partner.sap.com/)
+[![VMware Partner](https://img.shields.io/badge/VMware-Partner-blue)](https://www.vmware.com/partners.html)
+[![Red Hat Partner](https://img.shields.io/badge/Red%20Hat-Partner-red)](https://www.redhat.com/en/partners)
+[![Atlassian Partner](https://img.shields.io/badge/Atlassian-Partner-blue)](https://www.atlassian.com/partners)
+[![Zebra Partner](https://img.shields.io/badge/Zebra-Partner-orange)](https://www.zebra.com/us/en/partners/partnerconnect.html)
+
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/quantum-ledger-core">Quantum Ledger</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
 # quantum-ledger-core
