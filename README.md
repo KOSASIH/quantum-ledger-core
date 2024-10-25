@@ -134,19 +134,6 @@
 [![CPA - International](https://img.shields.io/badge/CPA%20-%20International-blue)](https://www.aicpa.org/)
 [![GARP Certification](https://img.shields.io/badge/GARP%20Certification-GARP-blue)](https://www.garp.org/)
 
-# Special Rewards and Recognition
-
-[![Top Performer Award](https://img.shields.io/badge/Top%20Performer%20Award-Gold-yellow)](https://example.com/top-performer)
-[![Excellence in Finance Award](https://img.shields.io/badge/Excellence%20in%20Finance%20Award-Silver-gray)](https://example.com/excellence-finance)
-[![Innovation Award](https://img.shields.io/badge/Innovation%20Award-Bronze-orange)](https://example.com/innovation-award)
-[![Employee of the Month](https://img.shields.io/badge/Employee%20of%20the%20Month-Employee%20of%20the%20Month-blue)](https://example.com/employee-of-the-month)
-[![Outstanding Contribution Award](https://img.shields.io/badge/Outstanding%20Contribution%20Award-Recognition-green)](https://example.com/outstanding-contribution)
-[![Leadership Award](https://img.shields.io/badge/Leadership%20Award-Leadership%20Excellence-purple)](https://example.com/leadership-award)
-[![Customer Service Excellence Award](https://img.shields.io/badge/Customer%20Service%20Excellence%20Award-Customer%20Satisfaction-lightblue)](https://example.com/customer-service-excellence)
-[![Best Team Player Award](https://img.shields.io/badge/Best%20Team%20Player%20Award-Teamwork-orange)](https://example.com/best-team-player)
-[![Mentorship Award](https://img.shields.io/badge/Mentorship%20Award-Mentorship%20Excellence-lightgreen)](https://example.com/mentorship-award)
-[![Community Service Award](https://img.shields.io/badge/Community%20Service%20Award-Community%20Impact-red)](https://example.com/community-service)
-
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/quantum-ledger-core">Quantum Ledger</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
 # quantum-ledger-core
