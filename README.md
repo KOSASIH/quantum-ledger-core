@@ -13,7 +13,16 @@
 [![ISO 37001 Certified](https://img.shields.io/badge/ISO%2037001-Certified-brightgreen)](https://www.iso.org/iso-37001-anti-bribery.html)
 [![ISO 27701 Certified](https://img.shields.io/badge/ISO%20277001-Certified-brightgreen)](https://www.iso.org/iso-27701-privacy-information-management.html)
 [![CMMI Level 5](https://img.shields.io/badge/CMMI-Level%205-green)](https://cmmiinstitute.com/)
-
+[![ISO 90003 Certified](https://img.shields.io/badge/ISO%2090003-Certified-brightgreen)](https://www.iso.org/iso-90003-software-engineering.html)
+[![ISO 10002 Certified](https://img.shields.io/badge/ISO%2010002-Certified-brightgreen)](https://www.iso.org/iso-10002-customer-satisfaction.html)
+[![ISO 10001 Certified](https://img.shields.io/badge/ISO%2010001-Certified-brightgreen)](https://www.iso.org/iso-10001-customer-satisfaction.html)
+[![ISO 10003 Certified](https://img.shields.io/badge/ISO%2010003-Certified-brightgreen)](https://www.iso.org/iso-10003-customer-satisfaction.html)
+[![ISO 19011 Certified](https://img.shields.io/badge/ISO%2019001-Certified-brightgreen)](https://www.iso.org/iso-19011-auditing.html)
+[![ISO 50002 Certified](https://img.shields.io/badge/ISO%2050002-Certified-brightgreen)](https://www.iso.org/iso-50002-energy-audits.html)
+[![ISO 26000 Certified](https://img.shields.io/badge/ISO%2026000-Certified-brightgreen)](https://www.iso.org/iso-26000-social-responsibility.html)
+[![ISO 20121 Certified](https://img.shields.io/badge/ISO%2020121-Certified-brightgreen)](https://www.iso.org/iso-20121-event-sustainability.html)
+[![ISO 37002 Certified](https://img.shields.io/badge/ISO%2037002-Certified-brightgreen)](https://www.iso.org/iso-37002-whistleblowing.html)
+[![ISO 45003 Certified](https://img.shields.io/badge/ISO%2045003-Certified-brightgreen)](https://www.iso.org/iso-45003-psychological-health.html)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/quantum-ledger-core">Quantum Ledger</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
