@@ -36,6 +36,18 @@
 [![Red Hat Partner](https://img.shields.io/badge/Red%20Hat-Partner-red)](https://www.redhat.com/en/partners)
 [![Atlassian Partner](https://img.shields.io/badge/Atlassian-Partner-blue)](https://www.atlassian.com/partners)
 [![Zebra Partner](https://img.shields.io/badge/Zebra-Partner-orange)](https://www.zebra.com/us/en/partners/partnerconnect.html)
+[![Adobe Partner](https://img.shields.io/badge/Adobe-Partner-red)](https://business.adobe.com/partners.html)
+[![ServiceNow Partner](https://img.shields.io/badge/ServiceNow-Partner-green)](https://www.servicenow.com/partners.html)
+[![HubSpot Partner](https://img.shields.io/badge/HubSpot-Partner-orange)](https://www.hubspot.com/partners)
+[![Palo Alto Networks Partner](https://img.shields.io/badge/Palo%20Alto%20Networks-Partner-blue)](https://www.paloaltonetworks.com/partners)
+[![Splunk Partner](https://img.shields.io/badge/Splunk-Partner-blue)](https://www.splunk.com/en_us/partners.html)
+[![Fortinet Partner](https://img.shields.io/badge/Fortinet-Partner-orange)](https://www.fortinet.com/partners)
+[![Nutanix Partner](https://img.shields.io/badge/Nutanix-Partner-blue)](https://www.nutanix.com/partners)
+[![Tableau Partner](https://img.shields.io/badge/Tableau-Partner-blue)](https://www.tableau.com/partners)
+[![Zendesk Partner](https://img.shields.io/badge/Zendesk-Partner-green)](https://www.zendesk.com/partners/)
+[![MuleSoft Partner](https://img.shields.io/badge/MuleSoft-Partner-blue)](https://www.mulesoft.com/partners)
+[![Okta Partner](https://img.shields.io/badge/Okta-Partner-blue)](https://www.okta.com/partners/)
+[![Twilio Partner](https://img.shields.io/badge/Twilio-Partner-blue)](https://www.twilio.com/partners)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/quantum-ledger-core">Quantum Ledger</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
