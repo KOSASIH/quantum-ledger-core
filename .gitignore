@@ -1,18 +1,36 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.whl
 
-# Other files and folders
-.settings/
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+.env/
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
+# Jupyter Notebook
+.ipynb_checkpoints
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+# Logs
+*.log
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Sensitive information
+*.pem
+*.key
+*.env
