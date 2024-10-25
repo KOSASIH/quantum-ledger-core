@@ -103,6 +103,17 @@
 [![Certified Blockchain Application Developer](https://img.shields.io/badge/Certified%20Blockchain%20Application%20Developer-CBAD-blue)](https://www.blockchain-council.org/certifications/certified-blockchain-application-developer/)
 [![Blockchain Essentials](https://img.shields.io/badge/Blockchain%20Essentials-IBM-blue)](https://www.ibm.com/training/blockchain-essentials)
 
+[![Chartered Financial Analyst](https://img.shields.io/badge/Chartered%20Financial%20Analyst-CFA-blue)](https://www.cfainstitute.org/en/programs/cfa)
+[![Certified Financial Planner](https://img.shields.io/badge/Certified%20Financial%20Planner-CFP-blue)](https://www.cfp.net/)
+[![Financial Risk Manager](https://img.shields.io/badge/Financial%20Risk%20Manager-FRM-blue)](https://www.garp.org/frm)
+[![Chartered Alternative Investment Analyst](https://img.shields.io/badge/Chartered%20Alternative%20Investment%20Analyst-CAIA-blue)](https://caia.org/)
+[![Certified Management Accountant](https://img.shields.io/badge/Certified%20Management%20Accountant-CMA-blue)](https://www.imanet.org/cma-certification)
+[![Certified Internal Auditor](https://img.shields.io/badge/Certified%20Internal%20Auditor-CIA-blue)](https://www.theiia.org/certification/cia-certification)
+[![Chartered Financial Consultant](https://img.shields.io/badge/Chartered%20Financial%20Consultant-ChFC-blue)](https://www.theamericancollege.edu/designations-degrees/chfc)
+[![Certified Treasury Professional](https://img.shields.io/badge/Certified%20Treasury%20Professional-CTP-blue)](https://www.afponline.org/certification/ctp)
+[![Financial Modeling & Valuation Analyst](https://img.shields.io/badge/Financial%20Modeling%20%26%20Valuation%20Analyst-FMVA-blue)](https://corporatefinanceinstitute.com/certifications/fmva/)
+[![Certified Investment Management Analyst](https://img.shields.io/badge/Certified%20Investment%20Management%20Analyst-CIMA-blue)](https://www.investmentsandwealth.org/education/cima)
+
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/quantum-ledger-core">Quantum Ledger</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
 # quantum-ledger-core
