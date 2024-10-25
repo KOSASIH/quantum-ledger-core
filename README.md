@@ -146,6 +146,16 @@
 [![Best Team Player Award](https://img.shields.io/badge/Best%20Team%20Player%20Award-Teamwork-orange)](https://www.teamwork.com/)
 [![Mentorship Award](https://img.shields.io/badge/Mentorship%20Award-Mentorship%20Excellence-lightgreen)](https://www.mentoring.org/)
 [![Community Service Award](https://img.shields.io/badge/Community%20Service%20Award-Community%20Impact-red)](https://www.pointsoflight.org/)
+[![Sustainability Award](https://img.shields.io/badge/Sustainability%20Award-Green%20Initiative-brightgreen)](https://www.sustainability-awards.com/)
+[![Diversity and Inclusion Award](https://img.shields.io/badge/Diversity%20and%20Inclusion%20Award-Diversity%20Champion-blue)](https://www.diversityawards.com/)
+[![Best Workplace Award](https://img.shields.io/badge/Best%20Workplace%20Award-Top%20Employer-orange)](https://www.greatplacetowork.com/)
+[![Health and Safety Award](https://img.shields.io/badge/Health%20and%20Safety%20Award-Safety%20Excellence-red)](https://www.osh.gov.au/)
+[![Corporate Social Responsibility Award](https://img.shields.io/badge/CSR%20Award-Community%20Impact-lightblue)](https://www.csr-awards.com/)
+[![Innovation in Technology Award](https://img.shields.io/badge/Innovation%20in%20Technology%20Award-Tech%20Leader-purple)](https://www.innovationawards.com/)
+[![Excellence in Education Award](https://img.shields.io/badge/Excellence%20in%20Education%20Award-Educational%20Excellence-yellow)](https://www.educationawards.com/)
+[![Best Customer Experience Award](https://img.shields.io/badge/Best%20Customer%20Experience%20Award-Customer%20Satisfaction-lightgreen)](https://www.cxawards.com/)
+[![Best Innovation in Marketing Award](https://img.sh ields.io/badge/Best%20Innovation%20in%20Marketing%20Award-Marketing%20Excellence-orange)](https://www.marketingawards.com/)
+[![Lifetime Achievement Award](https://img.shields.io/badge/Lifetime%20Achievement%20Award-Lifetime%20Excellence-gold)](https://www.lifetimeachievementawards.com/)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/quantum-ledger-core">Quantum Ledger</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
