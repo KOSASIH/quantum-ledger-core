@@ -60,6 +60,18 @@
 [![Freshworks Partner](https://img.shields.io/badge/Freshworks-Partner-blue)](https://www.freshworks.com/partners/)
 [![Monday.com Partner](https://img.shields.io/badge/Monday.com-Partner-blue)](https://monday.com/partners)
 [![Zoho Partner](https://img.shields.io/badge/Zoho-Partner-blue)](https://www.zoho.com/partners/)
+[![Dell Partner](https://img.shields.io/badge/Dell-Partner-blue)](https://www.dell.com/partners)
+[![HPE Partner](https://img.shields.io/badge/HPE-Partner-green)](https://www.hpe.com/us/en/partners.html)
+[![Lenovo Partner](https://img.shields.io/badge/Lenovo-Partner-blue)](https://www.lenovo.com/us/en/partners/)
+[![Salesforce AppExchange Partner](https://img.shields.io/badge/Salesforce%20AppExchange-Partner-blue)](https://appexchange.salesforce.com/)
+[![Adobe Experience Cloud Partner](https://img.shields.io/badge/Adobe%20Experience%20Cloud-Partner-red)](https://business.adobe.com/partners.html)
+[![ServiceTitan Partner](https://img.shields.io/badge/ServiceTitan-Partner-blue)](https://www.servicetitan.com/partners)
+[![RingCentral Partner](https://img.shields.io/badge/RingCentral-Partner-blue)](https://www.ringcentral.com/partners.html)
+[![DocuSign Partner](https://img.shields.io/badge/DocuSign-Partner-blue)](https://www.docusign.com/partners)
+[![CrowdStrike Partner](https://img.shields.io/badge/CrowdStrike-Partner-blue)](https://www.crowdstrike.com/partners/)
+[![Splunk Technology Partner](https://img.shields.io/badge/Splunk%20Technology-Partner-blue)](https://www.splunk.com/en_us/partners/technology-partners.html)
+[![Tenable Partner](https://img.shields.io/badge/Tenable-Partner-blue)](https://www.tenable.com/partners)
+[![SonicWall Partner](https://img.shields.io/badge/SonicWall-Partner-blue)](https://www.sonicwall.com/partners/)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/quantum-ledger-core">Quantum Ledger</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
