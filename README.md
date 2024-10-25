@@ -157,6 +157,29 @@
 [![Best Innovation in Marketing Award](https://img.shields.io/badge/Best%20Innovation%20in%20Marketing%20Award-Marketing%20Excellence-orange)](https://www.marketingawards.com/)
 [![Lifetime Achievement Award](https://img.shields.io/badge/Lifetime%20Achievement%20Award-Lifetime%20Excellence-gold)](https://www.lifetimeachievementawards.com/)
 
+# International Finance Organizations Awards and Recognition
+
+[![Global Finance Award](https://img.shields.io/badge/Global%20Finance%20Award-Financial%20Excellence-blue)](https://www.gfmag.com/global-finance-awards)
+[![CFA Institute Recognition](https://img.shields.io/badge/CFA%20Institute%20Recognition-Investment%20Excellence-green)](https://www.cfainstitute.org/en)
+[![World Bank Group Award](https://img.shields.io/badge/World%20Bank%20Group%20Award-Development%20Excellence-orange)](https://www.worldbank.org/en/about/awards)
+[![IMF Award](https://img.shields.io/badge/IMF%20Award-Monetary%20Policy%20Excellence-red)](https://www.imf.org/en/About/Awards)
+[![Financial Times Award](https://img.shields.io/badge/Financial%20Times%20Award-Top%20Financial%20Institution-purple)](https://www.ft.com/content/3c1e1c8e-4b1e-11ea-95a0-43d18ec71586)
+[![Euromoney Awards for Excellence](https://img.shields.io/badge/Euromoney%20Awards%20for%20Excellence-Banking%20Excellence-lightblue)](https://www.euromoney.com/awards)
+[![Global Banking Awards](https://img.shields.io/badge/Global%20Banking%20Awards-Banking%20Innovation-yellow)](https://www.globalbankingawards.com/)
+[![Sustainable Finance Award](https://img.shields.io/badge/Sustainable%20Finance%20Award-Green%20Finance-lightgreen)](https://www.sustainablefinanceawards.com/)
+[![Finance for the Future Awards](https://img.shields.io/badge/Finance%20for%20the%20Future%20Awards-Financial%20Sustainability-orange)](https://www.financeforthefutureawards.com/)
+[![IIF Award](https://img.shields.io/badge/IIF%20Award-Global%20Finance%20Leadership-blue)](https://www.iif.com/)
+[![Financial Stability Award](https://img.shields.io/badge/Financial%20Stability%20Award-Stability%20Champion-blue)](https://www.fsb.org/)
+[![Best Investment Fund Award](https://img.shields.io/badge/Best%20Investment%20Fund%20Award-Investment%20Excellence-green)](https://www.morningstar.com/)
+[![Global Financial Leadership Award](https://img.shields.io/badge/Global%20Financial%20Leadership%20Award-Leadership%20Excellence-orange)](https://www.iif.com/)
+[![Financial Innovation Award](https://img.shields.io/badge/Financial%20Innovation%20Award-Innovation%20Leader-lightblue)](https://www.financialinnovationawards.com/)
+[![Best Risk Management Award](https://img.shields.io/badge/Best%20Risk%20Management%20Award-Risk%20Excellence-red)](https://www.riskawards.com/)
+[![Emerging Markets Award](https://img.shields.io/badge/Emerging%20Markets%20Award-Top%20Emerging%20Market%20Institution-purple)](https://www.emergingmarketsawards.com/)
+[![Best Financial Technology Award](https://img.shields.io/badge/Best%20Fintech%20Award-Technology%20Excellence-yellow)](https://www.fintechawards.com/)
+[![Global Microfinance Award](https://img.shields.io/badge/Global%20Microfinance%20Award-Microfinance%20Excellence-lightgreen)](https://www.microfinancegateway.org/)
+[![Best Corporate Finance Award](https://img.shields.io/badge/Best%20Corporate%20Finance%20Award-Corporate%20Excellence-orange)](https://www.corporatefinanceawards.com/)
+[![Financial Literacy Award](https://img.shields.io/badge/Financial%20Literacy%20Award-Education%20Excellence-blue)](https://www.financialliteracyawards.com/)
+
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/quantum-ledger-core">Quantum Ledger</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
 # quantum-ledger-core
