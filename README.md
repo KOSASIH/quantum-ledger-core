@@ -67,5 +67,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 # Acknowledgments
 
-- Quantum Computing Research
-- Blockchain Technology
+- [Quantum Computing Research](https://quantum.ibm.com/) 
+- [Blockchain Technology](https://www.ibm.com/blockchain)
+
+
