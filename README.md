@@ -50,8 +50,10 @@ To run the application, use the following command:
 
    ```bash
    1 python main.py
-   2 You can also run specific modules or scripts as needed. Refer to the documentation for detailed usage instructions.
    ```
+    
+You can also run specific modules or scripts as needed. Refer to the documentation for detailed usage instructions.
+   
 
 # Contributing
 Contributions are welcome! Please follow these steps to contribute:
