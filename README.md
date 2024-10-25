@@ -48,6 +48,18 @@
 [![MuleSoft Partner](https://img.shields.io/badge/MuleSoft-Partner-blue)](https://www.mulesoft.com/partners)
 [![Okta Partner](https://img.shields.io/badge/Okta-Partner-blue)](https://www.okta.com/partners/)
 [![Twilio Partner](https://img.shields.io/badge/Twilio-Partner-blue)](https://www.twilio.com/partners)
+[![GitHub Partner](https://img.shields.io/badge/GitHub-Partner-lightgrey)](https://github.com/partners)
+[![Stripe Partner](https://img.shields.io/badge/Stripe-Partner-blue)](https://stripe.com/partners)
+[![Shopify Partner](https://img.shields.io/badge/Shopify-Partner-green)](https://www.shopify.com/partners)
+[![Box Partner](https://img.shields.io/badge/Box-Partner-blue)](https://www.box.com/partners)
+[![Slack Partner](https://img.shields.io/badge/Slack-Partner-blue)](https://slack.com/partners)
+[![Azure Partner](https://img.shields.io/badge/Azure-Partner-blue)](https://azure.microsoft.com/en-us/partners/)
+[![Trello Partner](https://img.shields.io/badge/Trello-Partner-blue)](https://trello.com/partners)
+[![Asana Partner](https://img.shields.io/badge/Asana-Partner-blue)](https://asana.com/partners)
+[![Intercom Partner](https://img.shields.io/badge/Intercom-Partner-green)](https://www.intercom.com/partners)
+[![Freshworks Partner](https://img.shields.io/badge/Freshworks-Partner-blue)](https://www.freshworks.com/partners/)
+[![Monday.com Partner](https://img.shields.io/badge/Monday.com-Partner-blue)](https://monday.com/partners)
+[![Zoho Partner](https://img.shields.io/badge/Zoho-Partner-blue)](https://www.zoho.com/partners/)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/quantum-ledger-core">Quantum Ledger</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
