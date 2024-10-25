@@ -13,41 +13,41 @@ Before you begin, ensure you have the following:
 Start by cloning the Quantum Ledger repository to your local machine:
 
 ```bash
-git clone https://github.com/KOSASIH/quantum-ledger-core.git
-cd quantum-ledger-core
+1 git clone https://github.com/KOSASIH/quantum-ledger-core.git
+2 cd quantum-ledger-core
 ```
 
 ## Step 2: Install Dependencies
 Install the required Python packages using pip:
 
 ```bash
-pip install -r requirements.txt
+1 pip install -r requirements.txt
 ```
 
 ## Step 3: Configure Your Environment
 Create a configuration file named config.py in the root directory of the project. Add your API key and the node URL:
 
 ```python
-API_KEY = "YOUR_API_KEY"
-NODE_URL = "https://api.quantum-ledger-core.com/v1"
+1 API_KEY = "YOUR_API_KEY"
+2 NODE_URL = "https://api.quantum-ledger-core.com/v1"
 ```
 
 ## Step 4: Create Your First Transaction
 You can create a transaction using the provided API. Here’s a simple example:
 
 ```python
-from quantum_ledger_core import create_transaction
-
-# Define transaction details
-transaction = create_transaction(
-    from_address="0x1234567890abcdef",
-    to_address="0xfedcba9876543210",
-    amount=10.0,
-    currency="QLD",
-    metadata={"message": "First transaction!"}
-)
-
-print(f"Transaction ID: {transaction.transaction_id}")
+1 from quantum_ledger_core import create_transaction
+2 
+3 # Define transaction details
+4 transaction = create_transaction(
+5     from_address="0x1234567890abcdef",
+6     to_address="0xfedcba9876543210",
+7     amount=10.0,
+8     currency="QLD",
+9     metadata={"message": "First transaction!"}
+10 )
+11 
+12 print(f"Transaction ID: {transaction.transaction_id}")
 ```
 
 ## Step 5: Check Transaction Status
@@ -55,12 +55,12 @@ print(f"Transaction ID: {transaction.transaction_id}")
 After creating a transaction, you can check its status:
 
 ```python
-from quantum_ledger_core import get_transaction_status
-
-transaction_id = transaction.transaction_id
-status = get_transaction_status(transaction_id=transaction_id)
-
-print(f"Transaction Status: {status.status}")
+1 from quantum_ledger_core import get_transaction_status
+2 
+3 transaction_id = transaction.transaction_id
+4 status = get_transaction_status(transaction_id=transaction_id)
+5 
+6 print(f"Transaction Status: {status.status}")
 ```
 
 # Conclusion
