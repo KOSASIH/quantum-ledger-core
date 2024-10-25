@@ -113,6 +113,16 @@
 [![Certified Treasury Professional](https://img.shields.io/badge/Certified%20Treasury%20Professional-CTP-blue)](https://www.afponline.org/certification/ctp)
 [![Financial Modeling & Valuation Analyst](https://img.shields.io/badge/Financial%20Modeling%20%26%20Valuation%20Analyst-FMVA-blue)](https://corporatefinanceinstitute.com/certifications/fmva/)
 [![Certified Investment Management Analyst](https://img.shields.io/badge/Certified%20Investment%20Management%20Analyst-CIMA-blue)](https://www.investmentsandwealth.org/education/cima)
+[![CFA Level I](https://img.shields.io/badge/CFA%20Level%20I-CFA%20Level%20I-blue)](https://www.cfainstitute.org/en/programs/cfa)
+[![Certified Financial Risk Manager](https://img.shields.io/badge/Certified%20Financial%20Risk%20Manager-CFRM-blue)](https://www.garp.org/frm)
+[![Certified Investment Fund Director](https://img.shields.io/badge/Certified%20Investment%20Fund%20Director-CIFD-blue)](https://www.cifd.org/)
+[![Certified Public Accountant](https://img.shields.io/badge/Certified%20Public%20Accountant-CPA-blue)](https://www.aicpa.org/)
+[![Financial Planning Association Membership](https://img.shields.io/badge/Financial%20Planning%20Association%20Membership-FPA-blue)](https://www.onefpa.org/)
+[![Chartered Institute of Management Accountants](https://img.shields.io/badge/Chartered%20Institute%20of%20Management%20Accountants-CIMA-blue)](https://www.cimaglobal.com/)
+[![Certified Fraud Examiner](https://img.shields.io/badge/Certified%20Fraud%20Examiner-CFE-blue)](https://www.acfe.com/cfe-credential.aspx)
+[![Financial Services Certified Professional](https://img.shields.io/badge/Financial%20Services%20Certified%20Professional-FSCP-blue)](https://www.theamericancollege.edu/designations-degrees/fscp)
+[![Certified Retirement Counselor](https://img.shields.io/badge/Certified%20Retirement%20Counselor-CRC-blue)](https://www.retirementcounselor.com/)
+[![Certified Wealth Strategist](https://img.shields.io/badge/Certified%20Wealth%20Strategist-CWS-blue)](https://www.investmentsandwealth.org/education/cws)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/quantum-ledger-core">Quantum Ledger</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
